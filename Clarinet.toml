@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/access-control.clar"
 depends_on = []
 
+[contracts.consent-management]
+path = "contracts/consent-management.clar"
+depends_on = []
+
 [contracts.medical-professional-registry]
 path = "contracts/medical-professional-registry.clar"
 depends_on = []
